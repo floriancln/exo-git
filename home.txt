@@ -2,3 +2,5 @@ Homepage
 
  lien vers styles.css
  lien vers le login
+ lien vers le panier
+ ajoute une banière
