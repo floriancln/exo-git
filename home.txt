@@ -4,3 +4,4 @@ Homepage
  lien vers le login
  lien vers le panier
  ajoute une banière
+ lien vers le panier
